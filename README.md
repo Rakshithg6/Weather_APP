@@ -18,6 +18,4 @@ This is a simple weather app created using HTML, CSS, and JavaScript. It retriev
 - CSS
 - JavaScript
 
-## License
 
-This project is licensed under the MIT License
