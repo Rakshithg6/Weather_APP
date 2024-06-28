@@ -10,7 +10,7 @@ This is a simple weather app created using HTML, CSS, and JavaScript. It retriev
 
 ## APIs Used
 
-- *Weather API:* Utilizes the API provided by [API Provider Name] to fetch weather data based on location.
+- *Weather API:* Utilizes the API provided by OpenWeatherMap to fetch weather data based on location.
 
 ## Technologies Used
 
